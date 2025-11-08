@@ -1,11 +1,2 @@
-Team ID : NM2025TMID03692
-
-Team Size : 4
-
-Team Leader : Kabil K
-
-Team member : Jayasri S
-
-Team member : Kowsika DEVI M
-
-Team member : JEYA Sridhar G
+Demo video is uploaded in Drive
+https://drive.google.com/file/d/1YIALG-p5SF-zL8Xtp-uTMcF231rx1eeZ/view?usp=drive_link
